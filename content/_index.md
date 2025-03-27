@@ -1,7 +1,7 @@
 ---
-title: "Landing page"
-date: 2025-03-27
-draft: false
+title: "Welcome to Blowfish! :tada:"
+description: "This page was built using the Blowfish theme for Hugo."
 ---
 
-BBBBBBBBBBBBBBBienvenue sur ma page statique avec Hugo ! 🚀
+
+
