@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'blowfish'
+baseURL = "https://AlanSottile.github.io/our-landing-page"
+publishDir = "public"
+
