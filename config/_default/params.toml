@@ -42,7 +42,7 @@ smartTOCHideUnfocusedChildren = false
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
-  showRecentItems = 6
+  showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "docs"
   cardView = true
@@ -143,13 +143,6 @@ smartTOCHideUnfocusedChildren = false
 [selineAnalytics]
   # token = "XXXXXX"
   # enableTrackEvent = false
-
-[buymeacoffee]
-  identifier = "nunocoracao"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
